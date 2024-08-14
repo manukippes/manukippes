@@ -18,7 +18,7 @@
 
 <h3 align="left">🧐 Algunos datos sobre mi</h3>
 
-- 🔭 Actualmente estoy trabajando en **KIMA Testing** participando en distintos proyectos, automatizando pruebas.
+- 🔭 Actualmente estoy trabajando en **KIMA Testing** participando en distintos clientes y proyectos.
 
 - 👨‍💻 Puedes ver mi experiencia laboral en [https://www.linkedin.com/in/emmanuelkippes/](https://www.linkedin.com/in/emmanuelkippes/)
 
