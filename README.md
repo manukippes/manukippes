@@ -62,6 +62,9 @@
 
 
 <hr>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=manukippes&show_icons=true&locale=en" alt="manukippes" /></p>
+<h3 align="center">Stats</h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manukippes&show_icons=true&locale=en" alt="manukippes" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manukippes&" alt="manukippes" /></p>
+<hr>
+<h3 align="center">Contributions</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manukippes&" alt="manukippes" /></p>
