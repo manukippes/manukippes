@@ -70,11 +70,6 @@
    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-
-<hr>
-<h3 align="center">Stats</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manukippes&show_icons=true&locale=en" alt="manukippes" /></p>
-
 <hr>
 <h3 align="center">Contributions</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manukippes&" alt="manukippes" /></p>
