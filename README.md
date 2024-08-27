@@ -36,6 +36,7 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://appium.io/docs/en/latest/" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" width="80" height="40"/> </a> 
   <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/logo-transparent.png" alt="restAssured" width="40" height="40"/> </a> 
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Playwrite.svg" alt="playwright" width="80" height="40"/> </a> 
   <a href="https://developer.apple.com/documentation/xctest" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apple_ios_icon_136955.png" alt="XCTest" width="40" height="40"/> </a> 
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" alt="cucumber" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
