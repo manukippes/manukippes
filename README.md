@@ -18,13 +18,13 @@
 
 <h3 align="left">🧐 Algunos datos sobre mi</h3>
 
-- 🔭 Actualmente estoy trabajando en **KIMA Testing** participando en distintos clientes y proyectos.
+- 🔭 Actualmente estoy trabajando en **Capgemini** participando en distintos clientes y proyectos.
 
 - 👨‍💻 Puedes ver mi experiencia laboral en [https://www.linkedin.com/in/emmanuelkippes/](https://www.linkedin.com/in/emmanuelkippes/)
 
 - 📝 Regularmente escribo articulos en [https://www.kimatesting.com/blog](https://www.kimatesting.com/blog)
 
-- 🌱 Estoy aprendiendo **Playwright y Phyton**
+- 🌱 Estoy profundizando mis conocimiento en **Java** y aprendiendo **Phyton**
 - 🏝️ Vivo en Málaga y me encanta jugar al Padel
 - 📫 Me puedes escribir a **emmanuelkippes@gmail.com**
 
